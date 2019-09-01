@@ -1,4 +1,4 @@
-# zram
+# Zram
 This is a simple script to enable ZRAM on a Raspberry Pi or on any other Linux system.
 
 This script can AUTOMATICALLY detects the number of CPU cores to allocate to ZRAM computation, disables existing swap and enables ZRAM swap.
