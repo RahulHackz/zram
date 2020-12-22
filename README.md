@@ -5,7 +5,7 @@ This script can AUTOMATICALLY detects the number of CPU cores to allocate to ZRA
 
 Steps to use:
 • Download the script and copy to /usr/bin/ folder
-> sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/novaspirit/rpi_zram/master/zram.sh
+> sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/RahulHackz/zram/master/zram.sh
 
 • make file executable
 > sudo chmod +x /usr/bin/zram.sh
